@@ -15,6 +15,11 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="4" />
+    <option name="minGWHomePath" value="C:\MinGW" />
+    <option name="winEnvironment" value="MINGW" />
+  </component>
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/OneDrive/Preferences/DickStyle.xml" />
   </component>
