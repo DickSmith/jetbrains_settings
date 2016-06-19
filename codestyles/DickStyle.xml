@@ -13,24 +13,6 @@
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   <option name="WRAP_COMMENTS" value="true" />
-  <CoffeeScriptCodeStyleSettings>
-    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
-    <option name="ALIGN_FUNCTION_BODY" value="true" />
-    <option name="SPACE_WITHIN_OBJECT_BRACES" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-  </CoffeeScriptCodeStyleSettings>
-  <CssCodeStyleSettings>
-    <option name="HEX_COLOR_UPPER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
-    <option name="VALUE_ALIGNMENT" value="1" />
-  </CssCodeStyleSettings>
-  <JSCodeStyleSettings>
-    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
-    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </JSCodeStyleSettings>
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
     <option name="PROPERTY_ALIGNMENT" value="2" />
@@ -92,16 +74,6 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <TypeScriptCodeStyleSettings>
-    <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
-    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
-    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="SPACE_AFTER_DOTS_IN_REST_PARAMETER" value="true" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
-    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
