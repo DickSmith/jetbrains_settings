@@ -274,6 +274,9 @@
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="128" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="128" />
     <option name="KEEP_LINE_BREAKS" value="false" />
@@ -351,9 +354,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="RIGHT_MARGIN" value="128" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
