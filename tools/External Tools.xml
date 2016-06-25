@@ -8,16 +8,23 @@
   </tool>
   <tool name="OBRD DDO" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$JDKPath$\orbd.exe" />
+      <option name="COMMAND" value="$JDKPath$\bin\orbd.exe" />
       <option name="PARAMETERS" value="-ORBInitialPort 61101 -ORBInitialHost localhost" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="OBRD LVL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$JDKPath$\orbd.exe" />
+      <option name="COMMAND" value="$JDKPath$\bin\orbd.exe" />
       <option name="PARAMETERS" value="-ORBInitialPort 51101 -ORBInitialHost localhost" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="OBRD MTL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$\bin\orbd.exe" />
+      <option name="PARAMETERS" value="-ORBInitialPort 41101 -ORBInitialHost localhost" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
