@@ -2,7 +2,7 @@
   <tool name="IDLJ" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$JDKPath$\bin\idlj.exe" />
-      <option name="PARAMETERS" value="-fall -pkgPrefix $ModuleName$$FileNameWithoutAllExtensions$ $FileFQPackage$.CORBA $FileName$" />
+      <option name="PARAMETERS" value="-fall -pkgPrefix $FileNameWithoutAllExtensions$ $FileFQPackage$ $FileName$" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
