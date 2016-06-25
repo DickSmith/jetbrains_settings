@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" />
     </exec>
   </tool>
+  <tool name="OBRD DDO" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$\orbd.exe" />
+      <option name="PARAMETERS" value="-ORBInitialPort 1050 -ORBInitialHost localhost" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
 </toolSet>
