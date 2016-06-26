@@ -14,38 +14,42 @@
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   <option name="WRAP_COMMENTS" value="true" />
+  <CoffeeScriptCodeStyleSettings>
+    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
+    <option name="ALIGN_FUNCTION_BODY" value="true" />
+    <option name="SPACE_WITHIN_OBJECT_BRACES" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+  </CoffeeScriptCodeStyleSettings>
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
+  </CssCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
     <option name="PROPERTY_ALIGNMENT" value="2" />
   </JSON>
-  <Objective-C-extensions>
-    <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
-    <option name="RELEASE_STYLE" value="IVAR" />
-    <option name="TYPE_QUALIFIERS_PLACEMENT" value="BEFORE" />
-    <file>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
-    </file>
-    <class>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
-    </class>
-    <extensions>
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
-    </extensions>
-  </Objective-C-extensions>
+  <JavaCodeStyleSettings>
+    <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
+    <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+  </JavaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
+    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="SPACE_AFTER_DOTS_IN_REST_PARAMETER" value="true" />
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
