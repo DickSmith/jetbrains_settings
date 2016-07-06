@@ -1,0 +1,19 @@
+<application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="sftp://dick@127.0.0.1:8022/usr/bin/php" id="28561f43-4c4f-4546-91cc-3d755c4277d9" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="816dd6db-475f-4ac3-9339-8b6491bff925" WEB_SERVER_CONFIG_NAME="Windows Susbsytem for Linux" HOST="127.0.0.1" PORT="8022" ANONYMOUS="false" USERNAME="dick" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dick/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+</application>

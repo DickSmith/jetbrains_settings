@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="816dd6db-475f-4ac3-9339-8b6491bff925" name="Windows Susbsytem for Linux" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="8022" rootFolder="/home/dick" accessType="SFTP" username="dick">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
