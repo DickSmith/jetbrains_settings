@@ -18,6 +18,9 @@
     <option name="SPACE_BEFORE_COLON" value="true" />
     <option name="PROPERTY_ALIGNMENT" value="2" />
   </JSON>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_VISIBILITY_KEYWORDS" value="2" />
     <option name="KEEP_DIRECTIVE_AT_FIRST_COLUMN" value="false" />
