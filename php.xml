@@ -11,15 +11,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="sftp://dick@127.0.0.1:8022/usr/bin/php" id="28561f43-4c4f-4546-91cc-3d755c4277d9" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="816dd6db-475f-4ac3-9339-8b6491bff925" WEB_SERVER_CONFIG_NAME="Windows Susbsytem for Linux" HOST="127.0.0.1" PORT="8022" ANONYMOUS="false" USERNAME="dick" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dick/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="ssh://dick@127.0.0.1:8022/usr/bin/php" id="28561f43-4c4f-4546-91cc-3d755c4277d9" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="127.0.0.1" PORT="8022" ANONYMOUS="false" USERNAME="dick" PASSWORD="dfeedfc3dfc9dfc1dfeadf98df9adf9bdf9c" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dick/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="127.0.0.1 2028 8022" version="5.5.9-1ubuntu4.17">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="127.0.0.1 1372 8022" version="5.5.9-1ubuntu4.17">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-readline.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
