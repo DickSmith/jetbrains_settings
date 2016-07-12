@@ -9,6 +9,9 @@
           <option name="port" value="8022" />
         </fileTransfer>
       </webServer>
+      <webServer id="f018e139-1d9a-4fae-9060-d43cd44e606e" name="powon" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
