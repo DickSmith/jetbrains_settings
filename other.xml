@@ -78,4 +78,5 @@
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
   </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis" />
 </application>
