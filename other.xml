@@ -79,8 +79,10 @@
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
   </component>
   <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+    <StubPackage>Client</StubPackage>
     <StubPackage>mypackageClient</StubPackage>
     <StubUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</StubUrl>
+    <JAXBUrl>file:/$USER_HOME$/IdeaProjects/dsms/src/example/HelloWorld.wsdl</JAXBUrl>
     <JAXBUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</JAXBUrl>
   </component>
 </application>
