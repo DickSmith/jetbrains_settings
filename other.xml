@@ -78,7 +78,7 @@
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
   </component>
-  <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis">
     <StubPackage>Client</StubPackage>
     <StubPackage>mypackageClient</StubPackage>
     <StubUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</StubUrl>
