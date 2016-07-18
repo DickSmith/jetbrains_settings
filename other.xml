@@ -79,9 +79,11 @@
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
   </component>
   <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+    <StubPackage>mypackageClient</StubPackage>
     <StubPackage>ClientJAXB</StubPackage>
     <StubPackage>Client</StubPackage>
     <StubPackage>mypackageClient</StubPackage>
+    <StubUrl>http://localhost:8080/dsms_war_exploded/services/ClinicServer?wsdl</StubUrl>
     <StubUrl>file:/C:/src/untitled4/src/example/HelloWorld.wsdl</StubUrl>
     <StubUrl>file:/C:/src/untitled2/src/example/HelloWorld.wsdl</StubUrl>
     <StubUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</StubUrl>
