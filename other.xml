@@ -79,9 +79,11 @@
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
   </component>
   <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis">
+    <StubPackage>ClientJAXB</StubPackage>
     <StubPackage>Client</StubPackage>
     <StubPackage>mypackageClient</StubPackage>
     <StubUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</StubUrl>
+    <JAXBUrl>file:/$USER_HOME$/untitled/src/example/HelloWorld.wsdl</JAXBUrl>
     <JAXBUrl>file:/$USER_HOME$/IdeaProjects/dsms/src/example/HelloWorld.wsdl</JAXBUrl>
     <JAXBUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</JAXBUrl>
   </component>
