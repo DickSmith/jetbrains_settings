@@ -82,6 +82,7 @@
     <StubPackage>ClientJAXB</StubPackage>
     <StubPackage>Client</StubPackage>
     <StubPackage>mypackageClient</StubPackage>
+    <StubUrl>file:/C:/src/untitled4/src/example/HelloWorld.wsdl</StubUrl>
     <StubUrl>file:/C:/src/untitled2/src/example/HelloWorld.wsdl</StubUrl>
     <StubUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</StubUrl>
     <JAXBUrl>file:/$USER_HOME$/untitled/src/example/HelloWorld.wsdl</JAXBUrl>
