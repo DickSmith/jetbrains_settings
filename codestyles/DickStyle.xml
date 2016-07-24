@@ -445,9 +445,9 @@
     <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_CAST_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
