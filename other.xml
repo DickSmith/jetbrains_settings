@@ -89,4 +89,12 @@
     <JAXBUrl>file:/$USER_HOME$/IdeaProjects/dsms/src/example/HelloWorld.wsdl</JAXBUrl>
     <JAXBUrl>file:/$USER_HOME$/IdeaProjects/WebServices/src/example/HelloWorld.wsdl</JAXBUrl>
   </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+      </list>
+    </option>
+  </component>
 </application>
