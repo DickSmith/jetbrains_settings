@@ -25,8 +25,6 @@
     <option name="INDENT_VISIBILITY_KEYWORDS" value="2" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
     <option name="KEEP_DIRECTIVE_AT_FIRST_COLUMN" value="false" />
-    <option name="FUNCTION_NON_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
-    <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_PARAMETERS_WRAP" value="5" />
     <option name="FUNCTION_PARAMETERS_ALIGN_MULTILINE_PARS" value="true" />
     <option name="LAMBDA_CAPTURE_LIST_WRAP" value="5" />
@@ -43,7 +41,6 @@
     <option name="TEMPLATE_CALL_ARGUMENTS_WRAP" value="5" />
     <option name="TEMPLATE_CALL_ARGUMENTS_ALIGN_MULTILINE" value="true" />
     <option name="TEMPLATE_CALL_ARGUMENTS_ALIGN_MULTILINE_PARS" value="true" />
-    <option name="CLASS_CONSTRUCTOR_INIT_LIST_WRAP" value="5" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_NEW_LINE_BEFORE_COLON" value="1" />
     <option name="SPACE_WITHIN_TEMPLATE_CALL_LTGT" value="true" />
     <option name="SPACE_WITHIN_EMPTY_BRACES" value="true" />
@@ -53,7 +50,7 @@
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
-    <option name="SPACE_BETWEEN_ADJACENT_BRACKETS" value="true" />
+    <option name="TAG_PREFIX_OF_LINE_COMMENT" value="BACK_SLASH" />
     <option name="FIELDS_SUFFIX" value="_" />
   </Objective-C>
   <Objective-C-extensions>
