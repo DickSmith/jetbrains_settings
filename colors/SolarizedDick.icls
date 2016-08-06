@@ -3,7 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1444,9 +1444,6 @@
         <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1473,10 +1470,6 @@
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
-    </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="PHP_TAG">
       <value>
@@ -1895,9 +1888,6 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
-    </option>
-    <option name="TWIG_BACKGROUND">
-      <value />
     </option>
     <option name="TWIG_BRACKETS">
       <value>
