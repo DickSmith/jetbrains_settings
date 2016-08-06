@@ -71,6 +71,9 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
