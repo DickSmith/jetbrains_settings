@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[powon] - ...\database\seeds'" />
-    <option name="defaultScopeName" value="Directory '[powon] - ...\database\seeds'" />
+    <option name="customScope" value="Directory '[soen6321] - ...\src\main\java\dsms\client\corba\DSMSApp'" />
+    <option name="defaultScopeName" value="Directory '[soen6321] - ...\src\main\java\dsms\client\corba\DSMSApp'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[powon] - ...\database\seeds'" />
+    <option name="SEARCH_SCOPE" value="Directory '[soen6321] - ...\src\main\java\dsms\client\corba\DSMSApp'" />
   </component>
 </application>
