@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\src\pnp-android\PNP\build.gradle'" />
-    <option name="defaultScopeName" value="File 'C:\src\pnp-android\PNP\build.gradle'" />
+    <option name="customScope" value="Module 'PNP'" />
+    <option name="defaultScopeName" value="Module 'PNP'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\src\pnp-android\PNP\build.gradle'" />
+    <option name="SEARCH_SCOPE" value="Module 'PNP'" />
   </component>
 </application>
