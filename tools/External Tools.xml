@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="ORBD" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk1.8.0_91\bin\orbd.exe" />
+      <option name="PARAMETERS" value="-ORBInitialPort 1050 -ORBInitialHost localhost" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Java/jdk1.8.0_91/bin" />
+    </exec>
+  </tool>
+  <tool name="IDLJ" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk1.8.0_91\bin\idlj.exe" />
+      <option name="PARAMETERS" value="-fall -pkgPrefix DSMSApp dsms.client.corba $FilePathRelativeToSourcepath$" />
+      <option name="WORKING_DIRECTORY" value="$SourcepathEntry$" />
+    </exec>
+  </tool>
+</toolSet>
