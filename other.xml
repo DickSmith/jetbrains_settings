@@ -6,13 +6,10 @@
           <State>
             <id />
           </State>
-          <State>
-            <id>General</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>ProblematicWhitespace</id>
+            <id>Android</id>
           </State>
         </selected-state>
       </profile-state>
