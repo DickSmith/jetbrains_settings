@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\src\pnp-android\PNP\src\main\java\com\ugroupmedia\pnp'" />
-    <option name="defaultScopeName" value="Directory 'C:\src\pnp-android\PNP\src\main\java\com\ugroupmedia\pnp'" />
+    <option name="customScope" value="File 'C:\src\pnp-android\PNP\src\main\java\com\ugroupmedia\pnp\PNPApplication.java'" />
+    <option name="defaultScopeName" value="File 'C:\src\pnp-android\PNP\src\main\java\com\ugroupmedia\pnp\PNPApplication.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\src\pnp-android\PNP\src\main\java\com\ugroupmedia\pnp'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\src\pnp-android\PNP\src\main\java\com\ugroupmedia\pnp\PNPApplication.java'" />
   </component>
 </application>
