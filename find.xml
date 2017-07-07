@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../typings/com.google.common.util.concurrent.FutureCallback.d.ts - [nativescript-purchase]'" />
-    <option name="defaultScopeName" value="File '.../typings/com.google.common.util.concurrent.FutureCallback.d.ts - [nativescript-purchase]'" />
-    <option name="SEARCH_SCOPE" value="File '.../typings/com.google.common.util.concurrent.FutureCallback.d.ts - [nativescript-purchase]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
