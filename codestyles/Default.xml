@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="RIGHT_MARGIN" value="160" />
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
