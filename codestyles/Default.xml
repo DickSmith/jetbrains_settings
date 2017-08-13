@@ -57,7 +57,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
-    <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -65,7 +64,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
