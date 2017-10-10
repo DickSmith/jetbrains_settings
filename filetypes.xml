@@ -11,6 +11,7 @@
       <mapping pattern="models" type="PLAIN_TEXT" />
       <mapping ext="xcconfig-release-prod" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
 </application>
