@@ -10,6 +10,7 @@
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="models" type="PLAIN_TEXT" />
       <mapping ext="xcconfig-release-prod" type="PLAIN_TEXT" />
+      <mapping ext="swift" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
